@@ -8,7 +8,7 @@ Feel free to use this anywhere you would like, I don't need attribution or anyth
 MIT License
 -----------
 
-Copyright (c) 2008-2009
+Copyright (c) 2008-2009 Michael Bleigh
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
